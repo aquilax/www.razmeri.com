@@ -1,0 +1,9 @@
+permalink: /:year/:month/:title.html
+
+domain: www.razmeri.com
+title: Размери на дрехи и обувки
+author: aquilax
+email: aquilax@gmail.com
+
+google_analytics:
+  account: UA-115818-14
