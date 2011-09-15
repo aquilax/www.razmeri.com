@@ -22,7 +22,7 @@ tags:
 см (инчове)</th>
 </tr>
 <tr>
-<H>Crib / Toddler</th>
+<th>Crib / Toddler</th>
 <td><span style="white-space:nowrap">27<s style="display:none">+</s><sup>1</sup><big>⁄</big><sub>4</sub></span> × <span style="white-space:nowrap">51<s style="display:none">+</s><sup>5</sup><big>⁄</big><sub>8</sub></span> in (69 × 131 cm)</td>
 <td><span style="white-space:nowrap">27<s style="display:none">+</s><sup>1</sup><big>⁄</big><sub>2</sub></span> × 55 in (70 × 140 cm) cotbed</td>
 <td></td>
@@ -126,7 +126,8 @@ tags:
 <td></td>
 <td></td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
 
 
 Източник [Wikipedia](http://en.wikipedia.org/wiki/Mattress)
